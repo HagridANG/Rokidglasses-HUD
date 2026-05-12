@@ -43,7 +43,7 @@ adb install app/build/outputs/apk/release/app-release.apk
 ## 兼容性
 
 - **设备**: Rokid Glasses (Android 12)
-- **包名**: `com.mouzhi.headup`
+
 - **LRing 兼容**: 不占用蓝牙，与 BLE 控制无冲突
 
 ## License
