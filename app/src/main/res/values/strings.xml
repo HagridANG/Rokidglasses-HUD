@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">抬头显示</string>
+    <string name="accessibility_service_description">息屏状态下仰头1秒自动点亮屏幕。开启后，抬头看天花板时屏幕会自动亮起。</string>
+</resources>
